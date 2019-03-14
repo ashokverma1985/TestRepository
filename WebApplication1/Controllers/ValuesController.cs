@@ -20,7 +20,7 @@ namespace WebApplication1.Controllers
         [HttpGet("{id}")]
         public string Get(int id)
         {
-            return "valued";
+            return "valued_ChangeforTestStory";
         }
 
 
